@@ -18,7 +18,7 @@ To mitigate this type of attack, we present two voice liveness detection systems
 - ASVSpoof Dataset for PhonemeLive and VoidNet: https://datashare.ed.ac.uk/handle/10283/3055
 
 ## How to Run
-- Please head to Installation.txt files present in PhenomeLive and VoidNet to run the programs for each type respectively.
+- Please head to Installation.md files present in PhenomeLive and VoidNet to run the programs for each type respectively.
 
 ## Citations
 - Yan, Q., Liu, K., Zhou, Q., Guo, H., and Zhang, N. Surfingattack: Interactive hidden attack on voice assistants using ultrasonic guided waves. In Network and Distributed Systems Security (NDSS) Symposium (2020).
